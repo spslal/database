@@ -1,0 +1,22 @@
+{
+  "channels": [
+    {
+      "Owner": "chaminda",
+      "channelname": "Sri Lanka Cricket",
+      "jid": "120363421812011730@newsletter",
+      "invite": "0029VbAgEv23mFYFDHsScQ3c",
+      "forwardTo": "120363420305811672@newsletter",
+      "react": ".cnrh",
+      "Date": "2025/09/09",
+      "deleteDelay": "4000"
+    },
+    {
+      "Owner": "chaminda",
+      "channelname": "Sri Lanka Cricket",
+      "jid": "120363421812011730@newsletter",
+      "invite": "0029Vb5sga50wajuHYQ3v21a",
+      "forwardTo": "120363371157309766@newsletter",
+      "react": ".cnrl",
+      "Date": "2025/09/09",
+      "deleteDelay": "4000"
+    }
